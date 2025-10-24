@@ -26,4 +26,4 @@ This app allows users to **start, pause, reset, and record lap times**, making i
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/StopwatchWebApp.git
+git clone https://github.com/sharankellur52-create/StopwatchWebApp.git
